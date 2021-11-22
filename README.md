@@ -6,7 +6,7 @@ The purpose of this challenge was to determine the _winner_ county from the **El
 ## Findings
 ###### 1. Total number of votes received.
 ###### 2. Total number of votes each **Candidate** received.
-###### 3. Total turnout of each **County** received.
+###### 3. Total turnout of largest **County**.
 ###### 4.a) Which county turnout was the largest?
 ######  b) By how much?
 ######  c) By how much percentile?
