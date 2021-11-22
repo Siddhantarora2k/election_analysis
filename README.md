@@ -205,3 +205,7 @@ Save the final candidate vote count to the text file.
 
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
+    
+# Conclusion
+1. Denver was the largest county with a turnout of **306055** comprising of over **82%** of the total turnout.
+2. Diana DeGette was the winning candidate with **272,892** comprising of more than **73 %** of total votes.
