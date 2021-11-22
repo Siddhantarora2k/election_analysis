@@ -1,7 +1,7 @@
 # election_analysis
 
 ## Project overview
-The purpose of this challenge was to determine the _winner_ county from the **Election**.
+The purpose of this challenge was to determine the _winner_ **county** and **candidate** from the **Election**.
 
 ## Findings
 ###### 1. Total number of votes received.
